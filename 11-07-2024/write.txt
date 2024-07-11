@@ -1,0 +1,1 @@
+Sync module.js filehello this is from append file  hello this is from append file
